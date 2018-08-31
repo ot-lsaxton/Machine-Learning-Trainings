@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13eaa008-4639-4d72-a092-234a8ad9016b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/training_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,26 +13,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Machine_Learning_Trainings$Machine_Learning_Trainings.coverage" NAME="Machine-Learning-Trainings Coverage Results" MODIFIED="1533920333161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Trainings$Machine_Learning_Trainings.coverage" NAME="Machine-Learning-Trainings Coverage Results" MODIFIED="1534960969770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Machine_Learning_Trainings$train_test_split.coverage" NAME="train_test_split Coverage Results" MODIFIED="1533852424894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Machine_Learning_Trainings$test_train_split.coverage" NAME="test_train_split Coverage Results" MODIFIED="1533856120771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="training_1.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/training_1.ipynb">
+    <leaf>
+      <file leaf-file-name="training_2.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training_2.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+      <file leaf-file-name="training_1.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/training_1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
             </state>
           </provider>
         </entry>
@@ -61,6 +61,7 @@
         <option value="$PROJECT_DIR$/training_1_answers.ipynb" />
         <option value="$PROJECT_DIR$/training_1.ipynb" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/training_2.ipynb" />
       </list>
     </option>
   </component>
@@ -74,16 +75,17 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3414" />
+    <option name="x" value="91" />
     <option name="y" value="23" />
-    <option name="width" value="1814" />
-    <option name="height" value="973" />
+    <option name="width" value="1699" />
+    <option name="height" value="896" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,7 +97,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,17 +205,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3414" y="23" width="1814" height="973" extended-state="0" />
-    <editor active="true" />
+    <frame x="91" y="23" width="1699" height="896" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21113561" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32916147" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32916147" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2603254" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32916147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23355462" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -244,17 +244,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train_test_split.py" />
-    <entry file="file://$PROJECT_DIR$/test.csv" />
-    <entry file="file://$PROJECT_DIR$/test_train_split.py" />
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/training_Titanic.ipynb" />
-    <entry file="file://$PROJECT_DIR$/training_1_Titanic.ipynb" />
-    <entry file="file://$PROJECT_DIR$/training_1_answers.ipynb" />
+    <entry file="file://$PROJECT_DIR$/training_2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/training_1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="1" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -262,6 +262,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_test_split.py" />
+    <entry file="file://$PROJECT_DIR$/test.csv" />
+    <entry file="file://$PROJECT_DIR$/test_train_split.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/training_Titanic.ipynb" />
+    <entry file="file://$PROJECT_DIR$/training_1_Titanic.ipynb" />
+    <entry file="file://$PROJECT_DIR$/training_1_answers.ipynb" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
         </state>
       </provider>
     </entry>
