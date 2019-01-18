@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13eaa008-4639-4d72-a092-234a8ad9016b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/training_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/training_3.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/training_3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="12" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -342,7 +341,7 @@
     <entry file="file://$PROJECT_DIR$/training_3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="12" />
+          <selected id="2" />
         </state>
       </provider>
     </entry>
